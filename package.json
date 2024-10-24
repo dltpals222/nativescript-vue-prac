@@ -6,9 +6,11 @@
   "dependencies": {
     "@nativescript/core": "~8.8.0",
     "@nativescript/theme": "^3.1.0",
+    "express": "^4.21.1",
     "nativescript-vue": "~2.9.3"
   },
   "devDependencies": {
+    "@nativescript/android": "8.8.5",
     "@nativescript/webpack": "~5.0.0",
     "nativescript-vue-template-compiler": "~2.9.3"
   }
